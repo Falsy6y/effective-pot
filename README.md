@@ -1,0 +1,2 @@
+# effective-pot
+Baneado
